@@ -1,5 +1,5 @@
 //
-//  KPRViewController.h
+//  KPRTableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Kyle Rand on 8/19/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KPRViewController : UIViewController
+@interface KPRTableViewController : UITableViewController
 
 @end
